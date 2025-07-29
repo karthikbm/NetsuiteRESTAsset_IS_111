@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="CCS:Auto_NetsuiteRest_1015_oauthV2_Create_Accounts_111" connectorServiceName="CCS:Auto_NetsuiteRest_1015_oauthV2_Create_Accounts_111"/>
+            <keyDetails collectionKey="CCS:Auto_NetsuiteRest_1015_oauthV2_Delete_Account_111" connectorServiceName="CCS:Auto_NetsuiteRest_1015_oauthV2_Delete_Account_111"/>
+            <keyDetails collectionKey="CCS:Auto_NetsuiteRest_1015_oauthV2_Query_Accounts_111" connectorServiceName="CCS:Auto_NetsuiteRest_1015_oauthV2_Query_Accounts_111"/>
+            <keyDetails collectionKey="CCS:Auto_NetsuiteRest_1015_oauthV2_Read_Account_111" connectorServiceName="CCS:Auto_NetsuiteRest_1015_oauthV2_Read_Account_111"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
